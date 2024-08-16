@@ -1,0 +1,76 @@
+.btn{
+    padding: 14px 10px 14px 10px ;
+    border:   1px ;
+    border-radius: 7px;
+    color: white;
+    background-color: chocolate;
+}
+.btn2{
+    padding: 14px 10px 14px 10px ;
+    border:  solid 2px ;
+    border-radius: 7px;
+    color: chocolate;
+    background-color:white ;
+}
+.btt{
+    padding: 14px 10px 14px 10px ;
+    border:  solid 2px ;
+    border-radius: 7px;
+    color: white;
+    background-color:black ;
+}
+.btt:hover{
+    background-color: grey;
+    color: rgb(255, 106, 0);
+}
+.btt1{
+    padding: 14px 10px 14px 10px ;
+    border:  solid 2px ;
+    border-radius: 7px;
+    color: white ;
+    background-color:black ;
+}
+.btt1:hover{
+    background-color: grey;
+    color: rgb(255, 106, 0);
+}
+.btt2{
+    padding: 14px 10px 14px 10px ;
+    border:  solid 2px ;
+    border-radius: 7px;
+    color: white;
+    background-color:black ;
+}
+.btt2:hover{
+    background-color: grey;
+    color: rgb(255, 106, 0);
+}
+.btt3{
+    padding: 14px 10px 14px 10px ;
+    border:  solid 2px ;
+    border-radius: 7px;
+    color: white;
+    background-color:black ;
+    
+}
+.btt3:hover{
+    background-color: grey;
+    color: rgb(255, 106, 0);
+}
+.btn:hover{
+    color: black;
+    font-size: 14px;
+}
+.btn2:hover{
+    color: black;
+    font-size: 14px;
+}
+.h2:hover{
+    color: chocolate;
+}
+.h1:hover{  
+    color: chocolate;
+}
+.p:hover{
+    color: chocolate     ;
+}
